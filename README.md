@@ -7,9 +7,9 @@ Before you begin, ensure you have met the following requirements:
 * You have a `<Windows/Linux/Mac>` machine. 
 * Optionally, you have installed [Git](https://git-scm.com/downloads).
 
-## Installing <ProjectName>
+## Installing & Running Doctoralia Assessment
 
-To install <ProjectName>, follow these steps:
+To install & run the Doctoralia Assessment, follow these steps:
 
 ### Linux and macOS:
 
